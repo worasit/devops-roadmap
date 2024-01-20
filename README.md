@@ -1,6 +1,6 @@
-# Devops Roadmap
+# DevSecOps Roadmap
 
-This is my DevOps career journey to become the DevSecOps expert in a year.
+This is my DevSecOps career journey to become the DevSecOps expert in a year.
 
 The roadmap is referring to [2024-devops-roadmap](https://roadmap.sh/devops) and consist of the following journeys
 
