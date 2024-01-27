@@ -1,0 +1,30 @@
+{
+  "Item1": {
+    "Manufacturer": {
+      "S": "Toyota"
+    },
+    "Make": {
+      "S": "Corolla"
+    },
+    "Year": {
+      "N": "2004"
+    },
+    "VIN": {
+      "S": "A2D213ASD241AAD"
+    }
+  },
+  "Item2": {
+    "Manufacturer": {
+      "S": "Honda"
+    },
+    "Make": {
+      "S": "Civic"
+    },
+    "Year": {
+      "N": "2012"
+    },
+    "VIN": {
+      "S": "A1X21312241241AAD"
+    }
+  }
+}
