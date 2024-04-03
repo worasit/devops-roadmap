@@ -7,16 +7,6 @@
 A
 vagrant/README.md,2/1/212bb45aaf1ea92ef25b1b4498de172ea038d6c4
 N
-vagrant/RPM/CentOS/Vagrantfile,8/9/890d1bc7e5ddb5118ea59680ab5315899b5eb6ec
-®
-xvagrant/RPM/CentOS/.vagrant/machines/default/vmware_desktop/2f5fce2d-c719-42d7-9df3-97ce0e810010/centos-7-1-1.x86_64.vmx,f/d/fd7ae2b74bc5d5e43389c2cabb25710f5e7db4c9
-;
-Vagrantfile,8/8/880a33829d0929ef6c5bb535e6f72195c0d9b644
-Q
-!vagrant/Debian/Fedora/Vagrantfile,7/4/746d5e1c4efafd3f1568b4efd7bf4aec5944a0c8
-N
-vagrant/RPM/Ubuntu/Vagrantfile,1/f/1fd9017c0bd9f11848b60797bbf15cfe54fc1895
-N
 vagrant/RPM/Fedora/Vagrantfile,c/1/c183c956bdfa6ba8e61ecfbdb9c03b4727d4f390
 Q
 !vagrant/Debian/Ubuntu/Vagrantfile,6/d/6d21a1239f87eabadc6bfb9c26ab08ff04f29ce7
@@ -38,10 +28,6 @@ w
 G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b/4/b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
 Å
 Q.idea/sonarlint/securityhotspotstore/8/8/880a33829d0929ef6c5bb535e6f72195c0d9b644,3/9/39726349916bcf1a331f7c163c3888ff8ac92a2e
-w
-G.idea/sonarlint/issuestore/7/4/746d5e1c4efafd3f1568b4efd7bf4aec5944a0c8,7/6/76143e63502c219c0ece6768da257b00f1d7cfd3
-w
-G.idea/sonarlint/issuestore/8/8/880a33829d0929ef6c5bb535e6f72195c0d9b644,3/3/33af7b76bc567389c1475f34b45e5b056a720c7d
 Å
 Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,1/0/10a03f31c4dce92cb371e761ce9429428bb6c176
 Å
@@ -50,8 +36,6 @@ Q.idea/sonarlint/securityhotspotstore/6/d/6d21a1239f87eabadc6bfb9c26ab08ff04f29c
 Q.idea/sonarlint/securityhotspotstore/7/4/746d5e1c4efafd3f1568b4efd7bf4aec5944a0c8,5/5/550fa359fa4b50282dd0f27c06cc848c86d0e97a
 w
 G.idea/sonarlint/issuestore/6/d/6d21a1239f87eabadc6bfb9c26ab08ff04f29ce7,e/0/e0184b96ade9b73b2610172d11801133de05151e
-w
-G.idea/sonarlint/issuestore/1/f/1fd9017c0bd9f11848b60797bbf15cfe54fc1895,b/1/b12eb0a7b431c7a388490cfd6cdc06771e332a8b
 w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e/d/ed67eb178d523a4b3f117dcbe0eda5196367ceec
 w
@@ -86,8 +70,6 @@ w
 G.idea/sonarlint/issuestore/c/1/c183c956bdfa6ba8e61ecfbdb9c03b4727d4f390,2/5/258fe475e46d01f2d57f862d524dabe7d88c81a2
 w
 G.idea/sonarlint/issuestore/5/5/55c60f960864127b93fc56842e8486d9a5c2d082,4/1/41c61c61e0cc5f0187d070eff030dce0528fc4d4
-w
-G.idea/sonarlint/issuestore/8/9/890d1bc7e5ddb5118ea59680ab5315899b5eb6ec,2/c/2c14b35779b1aa432cb64cf11c275d4df4976433
 Å
 Q.idea/sonarlint/securityhotspotstore/5/5/55c60f960864127b93fc56842e8486d9a5c2d082,9/6/966cf5c8bd5c0f33a3726ab949047e7b2d5e1ba6
 Å
@@ -96,5 +78,13 @@ w
 G.idea/sonarlint/issuestore/c/b/cbc9c174df48597a6eeaa44780c358f3dc64160b,3/d/3dfd8264df62e82d8ef1fafdbcb0c3d8df7aaeab
 Å
 Q.idea/sonarlint/securityhotspotstore/c/b/cbc9c174df48597a6eeaa44780c358f3dc64160b,f/f/ff5cf3e40c63e4e557f7d77fd6698625caa98009
-w
-G.idea/sonarlint/issuestore/f/d/fd7ae2b74bc5d5e43389c2cabb25710f5e7db4c9,4/e/4e84878caf1662f97f0f9a2b4a46b2406260215e
+E
+.git/hooks/pre-commit,9/e/9e7938a1b0904b6f52b511b78c7ca2d589bdf58f
+L
+terraform/aws/01-iam/main.tf,e/4/e4d7cf5a1a5709f81f973106c331d024cdb74858
+V
+&terraform/aws/01-iam/users.auto.tfvars,3/3/3324dad388a2fefe4e571c6a9e10c3635534b81e
+P
+ terraform/aws/01-iam/provider.tf,b/b/bb8b5b0b92fc7ee66d8ad8b32b880187b6492c21
+V
+&terraform/aws/01-iam/terraform.tfstate,e/2/e20cd87e77506bc91ca5054456cb91bb28253056

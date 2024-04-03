@@ -6,6 +6,9 @@ resource "aws_dynamodb_table" "cars" {
     name = "VIN"
     type = "S"
   }
+  tags = {
+    Description = "Em Test Terraform"
+  }
 }
 
 

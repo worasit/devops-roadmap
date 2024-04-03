@@ -15,3 +15,5 @@ The end goals on each journey, I am going to apply for certificates
 - [AWS Certified Advanced Networking - Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/?ch=tile&tile=getstarted)
 - [AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty/?ch=tile&tile=getstarted)
 - Akamai Automation and DevOps
+
+
