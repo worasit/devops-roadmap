@@ -1,0 +1,11 @@
+{
+  "local": {
+    "github.com/turbot/flowpipe-mod-reallyfreegeoip": {
+      "name": "github.com/turbot/flowpipe-mod-reallyfreegeoip",
+      "alias": "reallyfreegeoip",
+      "version": "0.1.0",
+      "constraint": "*",
+      "struct_version": 20220411
+    }
+  }
+}
